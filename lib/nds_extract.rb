@@ -2,6 +2,7 @@ require 'directors_database'
 require "pry"
 
 # [{:name=>"Test Director", :movies=>[]}]
+
 def directors_totals(nds)
   #iterate over each directors information to grab name and set it to nds
   # director :name placeholder
